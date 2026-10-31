@@ -70,7 +70,6 @@ Upload `data/sample_posts.csv` from the dashboard. CSV files must contain a `tex
 | GET | `/api/results` | Recent results |
 | GET | `/api/export` | Download results as CSV |
 
-See [docs/API.md](docs/API.md).
 
 ## Analysis approach
 1. Normalise whitespace and case.
