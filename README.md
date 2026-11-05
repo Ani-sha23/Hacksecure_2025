@@ -53,7 +53,7 @@ cd Frontend
 npm install
 npm run dev
 ```
-Open the Vite URL (normally http://localhost:5173). Set `VITE_API_URL` if the API is hosted elsewhere.
+Open the Vite URL. Set `VITE_API_URL` if the API is hosted elsewhere.
 
 ### Sample data
 Upload `data/sample_posts.csv` from the dashboard. CSV files must contain a `text` column and may contain an `id` column.
